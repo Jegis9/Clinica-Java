@@ -1,0 +1,49 @@
+/*HABITACIONES*/
+.contenedor-habitaciones{
+    margin: auto;
+    padding: 30px;
+}
+
+
+
+
+
+.card{
+    box-shadow: 10px 5px 5px grey;
+    margin: auto;
+    border-radius: 10px ;
+}
+
+.card-luxe{
+    box-shadow: 20px 20px 50px grey;
+    margin: auto;
+    position: relative;
+    
+}
+
+.spinner-grow{
+    position: absolute;
+    left: 300px;
+    top: -10px;
+    
+}
+
+.contenedor-habitaciones,h1{
+    font-size: 120%;
+    text-align: center;
+
+}
+.contenedor-habitaciones,h2{
+    font-size: 160%;
+}
+
+.incluye,li{
+    font-size: 80%;
+    text-align: justify;
+}
+#titulo-services{
+    font-size: 200%;
+}
+
+
+/*FIN HABITACIONES*/
